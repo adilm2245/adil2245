@@ -1,0 +1,11 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Muhammad Adil]
+description: [I am an AI Engineer and Computer Vision Researcher working across Generative AI, Object Detection, and MLOps-driven deployment. My expertise spans from developing optimized YOLO-based detection systems for real-time edge deployment to architecting Retrieval-Augmented Generation (RAG) and Agentic AI frameworks for scalable, cloud-integrated solutions.
+
+I hold an M.Sc. in Automotive Software Engineering from Technische Universität Chemnitz, where my thesis focused on high-voltage insulator detection for edge devices using YOLOv7 and YOLOv8 architectures. My research has explored practical challenges of deploying deep learning models in constrained environments, combining robustness, latency optimization, and cloud automation.
+
+Previously, I worked on music source separation at Goodix Belgium, where I developed a TensorFlow-based end-to-end voice removal pipeline, integrating AWS services for scalable deployment. At TU Chemnitz, I contributed to cyclist and bicycle lane detection research, creating a custom polygon-based dataset and implementing real-time object and lane segmentation for intelligent transport systems.
+
+Beyond research, I specialize in production-grade AI engineering, leveraging LangChain, MLflow, Jenkins, Docker, and AWS/GCP to deliver high-performance, scalable AI applications across domains.]
