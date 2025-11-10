@@ -51,11 +51,15 @@ My work includes developing **YOLO-based detection systems**, **Retrieval-Augmen
 
 ## 🎓 Education
 
+**M.Sc. in Internet of Things and Smart Systems**  
+*Westsächsische Hochschule Zwickau, Germany*  
+**Oct 2024 – present**  
+- Key Modules: Neurocomputing, Bildverstehen, Multicore Programming  
 **M.Sc. in Automotive Software Engineering**  
 *Technische Universität Chemnitz, Germany*  
 **Oct 2020 – Apr 2024**  
 - GPA: 2.4  
-- Key Modules: Neurocomputing, Bildverstehen, Multicore Programming  
+- Key Modules: Artificial Intelligence, Large Scale Data Preprocessing, Application of Machine Learning
 
 ---
 
