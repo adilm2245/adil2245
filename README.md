@@ -1,4 +1,4 @@
-# 📄 Muhammad Adil — AI Engineer | Computer Vision & Generative AI
+# 📄 AI Engineer | MLOPS & Generative AI
 
 **Location:** Chemnitz, Germany  
 **Email:** adilm2245@gmail.com  
